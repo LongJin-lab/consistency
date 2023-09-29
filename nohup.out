@@ -1,0 +1,108 @@
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+(standard_in) 2: syntax error
+./r3.sh: line 58: ]}_b2_4_b3___3.txt: command not found
+./r3.sh: line 59: syntax error near unexpected token `done'
+./r3.sh: line 59: `                done;'
+./r3.sh: line 58: ]}_b2_4_b3___3.txt: command not found
+./r3.sh: line 59: syntax error near unexpected token `done'
+./r3.sh: line 59: `                done;'
+./r3.sh: line 58: ]}_b2_4_b3___3.txt: command not found
+./r3.sh: line 59: syntax error near unexpected token `done'
+./r3.sh: line 59: `                done;'
+./r3.sh: line 58: ]}_b2__b3___3.txt: command not found
+./r3.sh: line 59: syntax error near unexpected token `done'
+./r3.sh: line 59: `                done;'
+./r4.sh: line 57: syntax error near unexpected token `done'
+./r4.sh: line 57: `                done;'
+./r4.sh: line 57: syntax error near unexpected token `done'
+./r4.sh: line 57: `                done;'
+./r4.sh: line 57: syntax error near unexpected token `done'
+./r4.sh: line 57: `                done;'
+./r4.sh: line 57: syntax error near unexpected token `done'
+./r4.sh: line 57: `                done;'
+./r3.sh: line 60: tao[h]}_a0_0.3_b1_3_b2_4_b3___3.txt: command not found
+./r3.sh: line 61: syntax error near unexpected token `done'
+./r3.sh: line 61: `                done;'
+./r3.sh: line 60: ao[h]}_a0_0.3_b1__b2__b3___3.txt: command not found
+./r3.sh: line 61: syntax error near unexpected token `done'
+./r3.sh: line 61: `                done;'
+./r3.sh: line 60: syntax error near unexpected token `done'
+./r3.sh: line 60: ` done;'
+./r3.sh: line 60: syntax error near unexpected token `done'
+./r3.sh: line 60: ` done;'
+./r3.sh: line 60: 0.3_b1__b2__b3___3.txt: command not found
+./r3.sh: line 61: syntax error near unexpected token `done'
+./r3.sh: line 61: `                done;'
+./r3.sh: line 60: 0.3_b1_4_b2_2_b3_1__3.txt: command not found
+./r3.sh: line 61: syntax error near unexpected token `done'
+./r3.sh: line 61: `                done;'
+./r4.sh: line 58: tao[h]}_a0_0.3_b1__b2__b3___3.txt: command not found
+./r4.sh: line 59: syntax error near unexpected token `done'
+./r4.sh: line 59: `                done;'
+./r4.sh: line 58: {tao[h]}_a0_0.3_b1_3_b2_4_b3___3.txt: command not found
+./r4.sh: line 59: syntax error near unexpected token `done'
+./r4.sh: line 59: `                done;'
+./r4.sh: line 58: {tao[h]}_a0_0.3_b1__b2__b3___3.txt: command not found
+./r4.sh: line 59: syntax error near unexpected token `done'
+./r4.sh: line 59: `                done;'
+./r4.sh: line 58: {tao[h]}_a0_0.3_b1_4_b2_2_b3_1__3.txt: command not found
+./r4.sh: line 59: syntax error near unexpected token `done'
+./r4.sh: line 59: `                done;'
+./r4.sh: line 60: syntax error near unexpected token `;'
+./r4.sh: line 60: `;'
+./r7.sh: line 59: 47383 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 60:  4380 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 61: 48791 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 61: 44357 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 61:  9203 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 65: 12966 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --b3 ${b3[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_b3_${b3[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 66: syntax error near unexpected token `done'
+./r3.sh: line 66: `   done;'
+./r3.sh: line 67: 31798 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 67: 48769 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 67:  5763 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --h ${tao[device]} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[device]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 67: 22103 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --h ${tao[h]} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --b3 ${b3[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_b3_${b3[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 73: [k]}_b2_2_b3_1_r32_3.txt: command not found
+./r3.sh: line 74: syntax error near unexpected token `done'
+./r3.sh: line 74: `                done;'
+./r3.sh: line 74: syntax error near unexpected token `done'
+./r3.sh: line 74: `            done;'
+./r3.sh: line 73: [k]}_b2_2_b3_1_r56_3.txt: command not found
+./r3.sh: line 74: syntax error near unexpected token `done'
+./r3.sh: line 74: `                done;'
+./r3.sh: line 74: syntax error near unexpected token `done'
+./r3.sh: line 74: `            done;'
+./r3.sh: line 73: [k]}_b2_2_b3_1__3.txt: command not found
+./r3.sh: line 74: syntax error near unexpected token `done'
+./r3.sh: line 74: `                done;'
+./r3.sh: line 74: syntax error near unexpected token `done'
+./r3.sh: line 74: `            done;'
+./r3.sh: line 74: 13873 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --h ${tao[h]} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --b3 ${b3[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_b3_${b3[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 74: 36888 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --h ${tao[h]} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --b3 ${b3[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_b3_${b3[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 74: 43282 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --h ${tao[h]} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --b3 ${b3[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_b3_${b3[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 74: 48339 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --h ${tao[h]} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --b3 ${b3[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_b3_${b3[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 75: syntax error near unexpected token `done'
+./r3.sh: line 75: `                done;'
+./r3.sh: line 74:  3086 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --h ${tao[h]} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 74: 47911 Killed                  CUDA_VISIBLE_DEVICES=${device} nohup /home/lab416/anaconda3/envs/pt37_backup/bin/python ${train_dir} --repnum ${j} --nnlayer ${i} --tao ${k} --epoch ${epoch} -bs ${bs} --lr ${lr} --h ${tao[h]} --a0 ${a0[l]} --b1 ${b1[k]} --b2 ${b2[k]} --arch ${model[i]} > ./log/${dir_loc}/tao_${tao[h]}_a0_${a0[l]}_b1_${b1[k]}_b2_${b2[k]}_${model[i]}_${j}.txt 2>&1
+./r3.sh: line 63: ((: j=0=1: attempted assignment to non-variable (error token is "=1")
+./r3_noise.sh: line 78: _0.9_a0_0.3_b1__b2__b3__ab2r110_3.txt: command not found
+./r3_noise.sh: line 79: syntax error near unexpected token `done'
+./r3_noise.sh: line 79: `                done;'
+./r3_noise.sh: line 84: syntax error near unexpected token `;'
+./r3_noise.sh: line 84: `;'
+./r3_noise.sh: line 84: syntax error near unexpected token `;'
+./r3_noise.sh: line 84: `;'
+./r3_noise.sh: line 84: syntax error near unexpected token `done'
+./r3_noise.sh: line 84: `              done;'
+./r3_noise.sh: line 85: ao[h]}_a0_0.3_b1_-2.5_b2_3.5_b3__ab2pr56_3.txt: command not found
+./r3_noise.sh: line 86: syntax error near unexpected token `done'
+./r3_noise.sh: line 86: `                done;'
